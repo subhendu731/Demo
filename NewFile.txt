@@ -1,2 +1,4 @@
 First line of code added
 2nd line of code added
+3rd line of code added from feature
+4th line of code added from feature
